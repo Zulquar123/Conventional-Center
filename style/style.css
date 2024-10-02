@@ -1,0 +1,35 @@
+.list{
+    list-style: none;
+    padding-left: 1rem;
+}
+.button-card{
+    background-color: rgb(251, 251, 251);
+    color: rgb(0, 140, 255);
+    border: none;
+    border-radius: 20px;
+}
+.text-color
+{
+    color: white;
+}
+
+.img-card{
+    width: 6rem;
+    height: 6rem;
+}
+
+.img-badge{
+    width: 11rem;
+    height: 3rem;
+}
+.link
+{
+    text-decoration: none;
+    color: rgb(251, 251, 251);
+}
+.link:visited{
+    color: rgb(251, 251, 251);
+}
+
+
+/* Code for toaster  */
